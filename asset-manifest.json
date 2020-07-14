@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wip-banner/static/css/main.01c11e55.chunk.css",
+    "main.js": "/wip-banner/static/js/main.a9827349.chunk.js",
+    "main.js.map": "/wip-banner/static/js/main.a9827349.chunk.js.map",
+    "runtime-main.js": "/wip-banner/static/js/runtime-main.b3cbd296.js",
+    "runtime-main.js.map": "/wip-banner/static/js/runtime-main.b3cbd296.js.map",
+    "static/js/2.247b8878.chunk.js": "/wip-banner/static/js/2.247b8878.chunk.js",
+    "static/js/2.247b8878.chunk.js.map": "/wip-banner/static/js/2.247b8878.chunk.js.map",
+    "index.html": "/wip-banner/index.html",
+    "precache-manifest.c8f85825308e5131ff327fa38ca6d0a4.js": "/wip-banner/precache-manifest.c8f85825308e5131ff327fa38ca6d0a4.js",
+    "service-worker.js": "/wip-banner/service-worker.js",
+    "static/css/main.01c11e55.chunk.css.map": "/wip-banner/static/css/main.01c11e55.chunk.css.map",
+    "static/js/2.247b8878.chunk.js.LICENSE.txt": "/wip-banner/static/js/2.247b8878.chunk.js.LICENSE.txt",
+    "static/media/aranylovas_kesz.png": "/wip-banner/static/media/aranylovas_kesz.6652da12.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3cbd296.js",
+    "static/js/2.247b8878.chunk.js",
+    "static/css/main.01c11e55.chunk.css",
+    "static/js/main.a9827349.chunk.js"
+  ]
+}
