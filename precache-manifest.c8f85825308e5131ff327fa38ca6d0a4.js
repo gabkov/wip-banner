@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09a600ed3998b70dcaaf87c0dfa881ef",
+    "revision": "d7d00bac9e562b7cf6f052caf52e19be",
     "url": "/wip-banner/index.html"
   },
   {
