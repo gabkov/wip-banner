@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className="App-header">
         <p>The site is under construction.</p>
-        <img src={logo} width="20%" height="20%" alt="logo" />
+        <img src={logo} width="30%" height="30%" alt="logo" />
         <p>Az oldal fejlesztés alatt.</p>
         <p>Elérhetőség/Contact: info@aranylovas.hu</p>
         <div id="wrapper">
