@@ -13,7 +13,7 @@ function App() {
         <div id="wrapper">
           <div id="first">
             <a target="_blank" href="https://www.instagram.com/aranylo_vas/">
-              <img class="socialicon img-hover-zoom" src="http://monarchiaoperett.hu/images/instagram-2-icon-256.png"
+              <img class="socialicon img-hover-zoom" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png"
                 height="40"
                 width="40"
                 alt="insta"
